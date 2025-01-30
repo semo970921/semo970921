@@ -4,7 +4,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🐣🐥 A Little Chick Developer Eager to Grow 🐔 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">🐣🐥 A Little Chick Developer Eager to Grow 🐔  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">
 
 Hi there! 👋I’m an enthusiastic junior developer, embarking on an exciting journey to master the art of coding and create impactful solutions  
 
