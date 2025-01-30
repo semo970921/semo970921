@@ -1,22 +1,21 @@
-
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=180&text=Welcom%20to%20SeungWon'sGitHub&animation=fadeIn&fontColor=ffffff&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&text=Welcom%20to%20SeungWon'sGitHub&animation=fadeIn&fontColor=ffffff&fontSize=50" />
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🐣🐥 A Little Chick Developer Eager to Grow 🐔 </h2>  
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🐣🐥 𝘼 𝙇𝙞𝙩𝙩𝙡𝙚 𝘾𝙝𝙞𝙘𝙠 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 𝙀𝙖𝙜𝙚𝙧 𝙩𝙤 𝙂𝙧𝙤𝙬 🐔 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">
 
-Hi there! 👋I’m an enthusiastic junior developer, embarking on an exciting journey to master the art of coding and create impactful solutions  
+𝘏𝘪 𝘵𝘩𝘦𝘳𝘦! 👋𝘐’𝘮 𝘢𝘯 𝘦𝘯𝘵𝘩𝘶𝘴𝘪𝘢𝘴𝘵𝘪𝘤 𝘫𝘶𝘯𝘪𝘰𝘳 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳, 𝘦𝘮𝘣𝘢𝘳𝘬𝘪𝘯𝘨 𝘰𝘯 𝘢𝘯 𝘦𝘹𝘤𝘪𝘵𝘪𝘯𝘨 𝘫𝘰𝘶𝘳𝘯𝘦𝘺 𝘵𝘰 𝘮𝘢𝘴𝘵𝘦𝘳 𝘵𝘩𝘦 𝘢𝘳𝘵
 
-Like a little chick 🐣, I'm eager to learn, grow, and explore new technologies every day!  
+𝘓𝘪𝘬𝘦 𝘢 𝘭𝘪𝘵𝘵𝘭𝘦 𝘤𝘩𝘪𝘤𝘬 🐣, 𝘐'𝘮 𝘦𝘢𝘨𝘦𝘳 𝘵𝘰 𝘭𝘦𝘢𝘳𝘯, 𝘨𝘳𝘰𝘸, 𝘢𝘯𝘥 𝘦𝘹𝘱𝘭𝘰𝘳𝘦 𝘯𝘦𝘸 𝘵𝘦𝘤𝘩𝘯𝘰𝘭𝘰𝘨𝘪𝘦𝘴 𝘦𝘷𝘦𝘳𝘺 𝘥𝘢𝘺!  
 
-🌱 **Currently Learning:** AWS Full-Stack Web Development Bootcamp 🚀 
+🌱 **𝘊𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘓𝘦𝘢𝘳𝘯𝘪𝘯𝘨:** 𝘈𝘞𝘚 𝘍𝘶𝘭𝘭-𝘚𝘵𝘢𝘤𝘬 𝘞𝘦𝘣 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵 𝘉𝘰𝘰𝘵𝘤𝘢𝘮𝘱 🚀 
 
-### 🚀 To-Do & Goals  
-🛠 **Building & Learning**: Sharpening my skills through hands-on projects 💻  
-🔍 **Code & Improve**: Passionate about problem-solving, clean code, and continuous growth ✨  
+## 🚀 To-Do & Goals
+🛠 **𝘉𝘶𝘪𝘭𝘥𝘪𝘯𝘨 & 𝘓𝘦𝘢𝘳𝘯𝘪𝘯𝘨**: 𝘚𝘩𝘢𝘳𝘱𝘦𝘯𝘪𝘯𝘨 𝘮𝘺 𝘴𝘬𝘪𝘭𝘭𝘴 𝘵𝘩𝘳𝘰𝘶𝘨𝘩 𝘩𝘢𝘯𝘥𝘴-𝘰𝘯 𝘱𝘳𝘰𝘫𝘦𝘤𝘵𝘴 💻  
+🔍 **𝘊𝘰𝘥𝘦 & 𝘐𝘮𝘱𝘳𝘰𝘷𝘦**: 𝘗𝘢𝘴𝘴𝘪𝘰𝘯𝘢𝘵𝘦 𝘢𝘣𝘰𝘶𝘵 𝘱𝘳𝘰𝘣𝘭𝘦𝘮-𝘴𝘰𝘭𝘷𝘪𝘯𝘨, 𝘤𝘭𝘦𝘢𝘯 𝘤𝘰𝘥𝘦, 𝘢𝘯𝘥 𝘤𝘰𝘯𝘵𝘪𝘯𝘶𝘰𝘶𝘴 𝘨𝘳𝘰𝘸𝘵𝘩 ✨  
 
-Let's connect and grow together! 🐥🐔🚀
+𝘓𝘦𝘵'𝘴 𝘤𝘰𝘯𝘯𝘦𝘤𝘵 𝘢𝘯𝘥 𝘨𝘳𝘰𝘸 𝘵𝘰𝘨𝘦𝘵𝘩𝘦𝘳! 🐥🐔🚀
 </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
@@ -27,8 +26,20 @@ Let's connect and grow together! 🐥🐔🚀
           <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
           <br/><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
           <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
           </div>
     </div>
+
+<div align="center">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📊 GitHub Stats </h2>  
+    <br>
+    <a href="https://github.com/semo970921/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=semo970921&langs_count=8&layout=compact" />
+    </a>
+</div>
+
+
+</div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=mailto:semo970921@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:semo970921@gmail.com"> </a>
@@ -36,6 +47,8 @@ Let's connect and grow together! 🐥🐔🚀
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
+
+
     
 
     
