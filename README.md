@@ -1,8 +1,9 @@
 <div align= "center">
-    <img src="https://github.com/semo970921/semo970921/blob/main/Green%20and%20Yellow%20Modern%20Programmer%20Presentation.jpg" alt="Green and Yellow Modern Programmer Presentation" width="100%">
-    </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🐣🐥 𝘼 𝙇𝙞𝙩𝙩𝙡𝙚 𝘾𝙝𝙞𝙘𝙠 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 𝙀𝙖𝙜𝙚𝙧 𝙩𝙤 𝙂𝙧𝙤𝙬 🐔 </h2>  
+    <img src="https://github.com/semo970921/semo970921/blob/main/Green%20and%20Yellow%20Modern%20Programmer%20Presentation.jpg" alt="Green and Yellow Modern Programmer Presentation" width="70%">
+</div>
+
+<div align= "center"> 
+    <h1 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🐣🐥 𝘼 𝙇𝙞𝙩𝙩𝙡𝙚 𝘾𝙝𝙞𝙘𝙠 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 𝙀𝙖𝙜𝙚𝙧 𝙩𝙤 𝙂𝙧𝙤𝙬 🐔 </h1>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">
 
 𝘏𝘪 𝘵𝘩𝘦𝘳𝘦! 👋𝘐’𝘮 𝘢𝘯 𝘦𝘯𝘵𝘩𝘶𝘴𝘪𝘢𝘴𝘵𝘪𝘤 𝘫𝘶𝘯𝘪𝘰𝘳 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳, 𝘦𝘮𝘣𝘢𝘳𝘬𝘪𝘯𝘨 𝘰𝘯 𝘢𝘯 𝘦𝘹𝘤𝘪𝘵𝘪𝘯𝘨 𝘫𝘰𝘶𝘳𝘯𝘦𝘺 𝘵𝘰 𝘮𝘢𝘴𝘵𝘦𝘳 𝘵𝘩𝘦 𝘢𝘳𝘵 𝘰𝘧 𝘤𝘰𝘥𝘪𝘯𝘨 𝘢𝘯𝘥 𝘤𝘳𝘦𝘢𝘵𝘦 𝘪𝘮𝘱𝘢𝘤𝘵𝘧𝘶𝘭 𝘴𝘰𝘭𝘶𝘵𝘪𝘰𝘯𝘴.
@@ -18,7 +19,8 @@
 
 𝘓𝘦𝘵'𝘴 𝘤𝘰𝘯𝘯𝘦𝘤𝘵 𝘢𝘯𝘥 𝘨𝘳𝘰𝘸 𝘵𝘰𝘨𝘦𝘵𝘩𝘦𝘳! 🐥🐔🚀
 </div>
-    <div align= "center">
+
+<div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
@@ -28,8 +30,8 @@
           <br/><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
           <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-          </div>
     </div>
+</div>
 
 <div align="center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📊 GitHub Stats </h2>  
