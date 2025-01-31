@@ -41,15 +41,20 @@
     </a>
 </div>
 
-
-</div>
-    <div align= "center">
+<div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=mailto:semo970921@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:semo970921@gmail.com"> </a>
-         <a href=> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link="> </a>
-          </div>  <br> 
-    <div align= "center">  </div> 
-    </div>
+    <div align="center">
+  <a href="mailto:semo970921@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:semo970921@gmail.com" alt="Gmail">
+  </a>
+  <a href="https://discord.com/users/semo970921" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord">
+  </a>
+    <a href="https://join.slack.com/t/olive-tbx7319.slack.com/shared_invite/olive-tbx7319.slack.com" target="_blank">
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white" alt="Slack">
+  </a>
+</div>
+
 
 
     
