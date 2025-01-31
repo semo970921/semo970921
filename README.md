@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&text=Welcom%20to%20SeungWon'sGitHub&animation=fadeIn&fontColor=ffffff&fontSize=50" />
+    <img src="https://github.com/semo970921/semo970921/blob/main/Green%20and%20Yellow%20Modern%20Programmer%20Presentation.png" alt="Green and Yellow Modern Programmer Presentation" width="100%">
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🐣🐥 𝘼 𝙇𝙞𝙩𝙩𝙡𝙚 𝘾𝙝𝙞𝙘𝙠 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 𝙀𝙖𝙜𝙚𝙧 𝙩𝙤 𝙂𝙧𝙤𝙬 🐔 </h2>  
