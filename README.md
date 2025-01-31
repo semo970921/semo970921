@@ -38,9 +38,10 @@
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📊 GitHub Stats </h2>  
     <br>
     <a href="https://github.com/semo970921/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=semo970921&langs_count=8&layout=compact" alt="github-stats"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=semo970921&hide=jupyter%20notebook&langs_count=8&layout=compact&count_private=true&cache_seconds=600" alt="github-stats"/>
     </a>
 </div>
+
 
 <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
