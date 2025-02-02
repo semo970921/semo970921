@@ -46,11 +46,9 @@
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🎯 Baekjoon Solved.ac </h2>  
     <br>
     <a href="https://solved.ac/profile/semo97">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=semo97">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=semo97" alt=" Baekjoon Solved.ac">
     </a>
 </div>
-
-
 
 <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
