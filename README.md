@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h1 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">서비스의 보이지 않는 뒤편을 튼튼하게 만드는 백엔드 개발자 정승원 입니다.</h1>
+  <h1 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">서비스의 보이지 않는 뒤편을 튼튼하게 만드는<br> 백엔드 개발자 정승원 입니다.</h1>
   <p style="color: #c9d1d9;">
     사용자들이 서비스를 이용하는 데 불편함이 없도록 안정적인 시스템을 만드는 일에 큰 보람을 느낍니다.<br>
     Spring Boot와 AWS 같은 기술을 이용해 서비스의 튼튼한 뼈대를 만드는 방법을 꾸준히 공부하고 있습니다.<br>
@@ -121,7 +121,7 @@
         <code>Google Maps API</code>
       </td>
       <td style="text-align: center; padding: 10px; border: 1px solid #30363d;">
-        <a href="https://github.com/kohyunwoo00/Avengers-front" style="color: #66d9cc;">📂 GitHub</a>
+        <a href="https://github.com/kohyunwoo00/Avengers-front" style="color: #66d9cc;">📂 GitHub</a><br>
         <a href="https://github.com/kohyunwoo00/Avengers-back" style="color: #66d9cc;">📂 GitHub</a>
       </td>
     </tr>
@@ -156,7 +156,7 @@
         <code>Spring Mail</code><br>
       </td>
       <td style="text-align: center; padding: 10px; border: 1px solid #30363d;">
-        <a href="https://github.com/semo970921/EnergyPlus_FRONT" style="color: #66d9cc;">📂 GitHub</a>
+        <a href="https://github.com/semo970921/EnergyPlus_FRONT" style="color: #66d9cc;">📂 GitHub</a><br>
         <a href="https://github.com/semo970921/EnergyPlus_BACK" style="color: #66d9cc;">📂 GitHub</a>
       </td>
     </tr>
